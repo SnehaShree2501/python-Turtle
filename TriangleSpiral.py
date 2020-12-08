@@ -3,7 +3,7 @@ wn = turtle.Screen()
 wn.bgcolor("lightgreen")
 candy = turtle.Turtle()
 candy.color("red")
-candy.shape("turtle")
+candy.shape("square")
 dist = 5
 candy.up()
 for x in range(45):
